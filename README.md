@@ -313,17 +313,17 @@
     </tr>
     <tr>
       <td align="center" style="padding: 16px 8px 8px 8px;">
-        <a href="https://github.com/mronquillo-netizen/GE4120-RONQUILLOPH-Portfolio/tree/24227dcf2fe67a084d89b787686ddcd9488f3731/Activity%205">
+        <a href="https://github.com/mronquillo-netizen/GE4120-RONQUILLOPH-Portfolio/blob/932c62cf68ebe93e4f568fb74749e4f56bb3ec6a/Activity%205/README.md">
           <img src="https://img.shields.io/badge/VIEW%20HERE-0070f3?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
       <td align="center" style="padding: 16px 8px 8px 8px;">
-        <a href="https://github.com/mronquillo-netizen/GE4120-RONQUILLOPH-Portfolio/tree/bd2e630de918d334595777bb071a7fb3ed9a14a2/Activity%206#making-a-website">
+        <a href="https://github.com/mronquillo-netizen/GE4120-RONQUILLOPH-Portfolio/blob/932c62cf68ebe93e4f568fb74749e4f56bb3ec6a/Activity%206/README.md">
           <img src="https://img.shields.io/badge/VIEW%20HERE-0070f3?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
       <td align="center" style="padding: 16px 8px 8px 8px;">
-        <a href="https://github.com/mronquillo-netizen/GE4120-RONQUILLOPH-Portfolio/tree/bd2e630de918d334595777bb071a7fb3ed9a14a2/Activity%207">
+        <a href="https://github.com/mronquillo-netizen/GE4120-RONQUILLOPH-Portfolio/blob/932c62cf68ebe93e4f568fb74749e4f56bb3ec6a/Activity%207/README.md">
           <img src="https://img.shields.io/badge/VIEW%20HERE-0070f3?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
