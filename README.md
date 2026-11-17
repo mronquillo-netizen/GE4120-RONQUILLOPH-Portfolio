@@ -77,6 +77,48 @@
 
 <br />
 
+<!-- ABOUT ME CARD (INTERESTS & SKILLS/TOOLS) -->
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td style="background-color: #ffffff; border: 2px solid #0070f3; border-radius: 12px; padding: 18px;">
+        <div align="center">
+          <h4 style="color: #0070f3; font-size: 18px; font-weight: bold; margin: 0 0 6px 0;">
+            ✨ About Me: Interests & Technical Skills
+          </h4>
+        </div>
+        <hr style="background-color: #38bdf8; height: 1.5px; border: none; margin: 6px 0 12px 0;" />
+        <div align="center">
+          <table style="background: transparent; border: none; font-size: 14px;" width="100%">
+            <tr>
+              <td width="50%" valign="top" style="border: none; padding: 8px 14px;" align="left">
+                <p style="color: #0070f3; font-weight: bold; margin: 0 0 6px 0;">💡 My Interests</p>
+                <p style="color: #1e293b; font-size: 13px; line-height: 1.6; margin: 0;">
+                  • Mental health advocacy & community well-being<br />
+                  • Visual storytelling, UI/UX, and accessible digital design<br />
+                  • Exploring how generative AI and web tools empower education<br />
+                  • Psychological research, human behavior, and digital literacy
+                </p>
+              </td>
+              <td width="50%" valign="top" style="border: none; padding: 8px 14px;" align="left">
+                <p style="color: #0070f3; font-weight: bold; margin: 0 0 6px 0;">🧰 Skills & Tools Learned</p>
+                <p style="color: #1e293b; font-size: 13px; line-height: 1.6; margin: 0;">
+                  • <strong>Design & Infographics:</strong> Canva, Grid Systems, Color Contrast & Typography<br />
+                  • <strong>AI & Prompt Engineering:</strong> ChatGPT, Gemini AI, Claude AI, Replit<br />
+                  • <strong>Collaboration & Productivity:</strong> Google Workspace (Forms, Meet, Sheets)<br />
+                  • <strong>Web & Documentation:</strong> GitHub Repositories, Markdown, HTML/CSS Prototyping
+                </p>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
 <!-- SHOWCASE SECTION -->
 <div align="center">
   <h2 style="color: #0070f3; font-size: 22px; font-weight: bold; margin-bottom: 8px;">
@@ -86,13 +128,13 @@
 
 <hr style="background-color: #0070f3; height: 2px; border: none; margin-bottom: 16px;" />
 
+<!-- ==================== PRELIMINARIES ==================== -->
 <p align="center">
   <img src="https://img.shields.io/badge/PERIOD-PRELIMINARIES-0070f3?style=for-the-badge&labelColor=0d1b2a" />
 </p>
 
 <br />
 
-<!-- SHOWCASE TABLE -->
 <table align="center" width="100%" style="border-collapse: collapse;">
   <thead>
     <tr>
@@ -127,17 +169,17 @@
     </tr>
     <tr>
       <td align="left" valign="top" style="padding: 8px 9px;">
-        <p style="color: #1e293b; font-size: 9px; line-height: 1.6; margin: 0;" align="center">
+        <p style="color: #1e293b; font-size: 11px; line-height: 1.6; margin: 0;" align="center">
           Demonstrates practical execution of composition, grid systems, and contrast elements. Prioritizes intuitive navigation, clean whitespace, and modern slide structures for high-impact presentations.
         </p>
       </td>
       <td align="left" valign="top" style="padding: 8px 9px;">
-        <p style="color: #1e293b; font-size: 9px; line-height: 1.6; margin: 0;" align="center">
+        <p style="color: #1e293b; font-size: 11px; line-height: 1.6; margin: 0;" align="center">
           Examines color contrast ratios, accessible color choices, and strategic font pairings. Concentrates on creating visually pleasing interfaces that ensure cross-platform accessibility.
         </p>
       </td>
       <td align="left" valign="top" style="padding: 8px 9px;">
-        <p style="color: #1e293b; font-size: 9px; line-height: 1.6; margin: 0;" align="center">
+        <p style="color: #1e293b; font-size: 11px; line-height: 1.6; margin: 0;" align="center">
           Combines data visualization with clear technical documentation. Converts complex technological solutions into easily digestible infographic layouts for online distribution.
         </p>
       </td>
@@ -162,89 +204,156 @@
   </tbody>
 </table>
 
-<!-- Main Container Table with explicit centering -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="background-color: #0d1117; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; text-align: center; margin: 0 auto;">
-  
-  <!-- ACCESSIBLE WATCH PRELIM VIDEO BUTTON -->
-  <tr>
-    <td align="center" style="padding: 24px 0 16px 0; text-align: center;">
-      <a href="https://drive.google.com/file/d/1iJmIAVZTSkRztvu7yjzqoNGjtfhxZjGO/view?usp=drive_link" target="_blank" style="text-decoration: none; display: inline-block; margin: 0 auto;" aria-label="Watch Prelim Video Presentation">
-        <table border="0" cellpadding="0" cellspacing="0" align="center" style="border-radius: 4px; overflow: hidden; background-color: #ff007a; margin: 0 auto;">
-          <tr>
-            <td align="center" style="padding: 10px 20px; color: #ffffff; font-weight: bold; font-size: 13px; letter-spacing: 1.5px; text-transform: uppercase; text-align: center;">
-              ▶ 🎬 PRELIM VIDEO PRESENTATION
-            </td>
-          </tr>
-        </table>
-      </a>
-    </td>
-  </tr>
+<!-- PRELIM VIDEO BUTTON -->
+<div align="center" style="padding: 18px 0;">
+  <a href="https://drive.google.com/file/d/1iJmIAVZTSkRztvu7yjzqoNGjtfhxZjGO/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20%F0%9F%8E%AC%20PRELIM%20VIDEO%20PRESENTATION-ff007a?style=for-the-badge" alt="Watch Prelim Video Presentation" />
+  </a>
+</div>
 
-  <!-- DIVIDER -->
-  <tr>
-    <td align="center" style="padding: 0 16px;">
-      <hr style="border: 0; border-top: 1px solid #30363d; margin: 16px auto;" />
-    </td>
-  </tr>
+<hr style="background-color: #30363d; height: 1px; border: none; margin: 20px 0;" />
 
-  <!-- MIDTERMS SECTION -->
-  <tr>
-    <td align="center" style="padding: 16px 0 8px 0; text-align: center;">
-      <table border="0" cellpadding="0" cellspacing="0" align="center" style="display: inline-table; border-radius: 4px; overflow: hidden; margin: 0 auto;">
-        <tr>
-          <td align="center" style="background-color: #484f58; color: #ffffff; font-size: 11px; font-weight: bold; letter-spacing: 1px; padding: 6px 12px; text-transform: uppercase; text-align: center;">
-            PERIOD
-          </td>
-          <td align="center" style="background-color: #ffd1dc; color: #1e293b; font-size: 11px; font-weight: bold; letter-spacing: 1px; padding: 6px 12px; text-transform: uppercase; text-align: center;">
-            MIDTERMS
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 8px 16px 24px 16px; text-align: center;">
-      <p style="color: #8b949e; font-size: 12px; line-height: 1.4; margin: 0 auto; font-style: italic; text-align: center;">
-        Stay tuned! Midterm tasks and deliverables will be updated here soon.
-      </p>
-    </td>
-  </tr>
+<!-- ==================== MIDTERMS ==================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PERIOD-MIDTERMS-0070f3?style=for-the-badge&labelColor=0d1b2a" />
+</p>
 
-  <!-- DIVIDER -->
-  <tr>
-    <td align="center" style="padding: 0 16px;">
-      <hr style="border: 0; border-top: 1px solid #30363d; margin: 16px auto;" />
-    </td>
-  </tr>
+<br />
 
-  <!-- PREFINALS SECTION -->
-  <tr>
-    <td align="center" style="padding: 16px 0 8px 0; text-align: center;">
-      <table border="0" cellpadding="0" cellspacing="0" align="center" style="display: inline-table; border-radius: 4px; overflow: hidden; margin: 0 auto;">
-        <tr>
-          <td align="center" style="background-color: #484f58; color: #ffffff; font-size: 11px; font-weight: bold; letter-spacing: 1px; padding: 6px 12px; text-transform: uppercase; text-align: center;">
-            PERIOD
-          </td>
-          <td align="center" style="background-color: #ffd1dc; color: #1e293b; font-size: 11px; font-weight: bold; letter-spacing: 1px; padding: 6px 12px; text-transform: uppercase; text-align: center;">
-            PREFINALS
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 8px 16px 24px 16px; text-align: center;">
-      <p style="color: #8b949e; font-size: 12px; line-height: 1.4; margin: 0 auto; font-style: italic; text-align: center;">
-        Stay tuned! Prefinal tasks and deliverables will be updated here soon.
-      </p>
-    </td>
-  </tr>
-
-  <!-- DIVIDER -->
-  <tr>
-    <td align="center" style="padding: 0 16px;">
-      <hr style="border: 0; border-top: 1px solid #30363d; margin: 16px auto;" />
-    </td>
-  </tr>
-
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th align="center" width="100%" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/%20GROUP%202%20PRESENTATION-0070f3?style=for-the-badge&labelColor=0d1b2a" />
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="padding: 8px 24px;">
+        <p style="color: #0284c7; font-size: 16px; font-weight: bold; margin: 0;">
+          FROM RESPONSE TO CONNECTION: EXPLORING GOOGLE FORMS & GOOGLE MEET
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" style="padding: 8px 40px;">
+        <p style="color: #1e293b; font-size: 12px; line-height: 1.6; margin: 0;" align="center">
+          Explores the core features, purposes, and collaborative capabilities of Google Forms and Google Meet within the Google Workspace ecosystem. Covers digital data collection, automated quizzes, form customization, virtual conferencing, screen sharing, breakout rooms, live captions, and seamless workspace integration for modern online communication.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 16px 8px 8px 8px;">
+        <a href="https://github.com/mronquillo-netizen/GE4120-RONQUILLOPH-Portfolio/tree/24227dcf2fe67a084d89b787686ddcd9488f3731/Group%202%20Presentation">
+          <img src="https://img.shields.io/badge/VIEW%20HERE-0070f3?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
 </table>
+
+<hr style="background-color: #30363d; height: 1px; border: none; margin: 20px 0;" />
+
+<!-- ==================== PREFINALS ==================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PERIOD-PREFINALS-0070f3?style=for-the-badge&labelColor=0d1b2a" />
+</p>
+
+<br />
+
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th align="center" width="33%" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/%20ACTIVITY%205-0070f3?style=for-the-badge&labelColor=0d1b2a" />
+      </th>
+      <th align="center" width="33%" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/%20ACTIVITY%206-0070f3?style=for-the-badge&labelColor=0d1b2a" />
+      </th>
+      <th align="center" width="34%" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/%20ACTIVITY%207-0070f3?style=for-the-badge&labelColor=0d1b2a" />
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="padding: 8px 12px;">
+        <p style="color: #0284c7; font-size: 15px; font-weight: bold; margin: 0;">
+          AI TOOLS ACTIVITY
+        </p>
+      </td>
+      <td align="center" style="padding: 8px 12px;">
+        <p style="color: #0284c7; font-size: 15px; font-weight: bold; margin: 0;">
+          MAKING A WEBSITE
+        </p>
+      </td>
+      <td align="center" style="padding: 8px 12px;">
+        <p style="color: #0284c7; font-size: 15px; font-weight: bold; margin: 0;">
+          RESUME GENERATING
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" style="padding: 8px 9px;">
+        <p style="color: #1e293b; font-size: 11px; line-height: 1.6; margin: 0;" align="center">
+          Demonstrates prompt engineering and generative AI image enhancement techniques. Compares how basic vs. detailed prompts influence visual clarity, artistic detail, subject accuracy, and creative transformation using modern AI tools.
+        </p>
+      </td>
+      <td align="left" valign="top" style="padding: 8px 9px;">
+        <p style="color: #1e293b; font-size: 11px; line-height: 1.6; margin: 0;" align="center">
+          Showcases the design and development of an educational advocacy website titled "Aging with Dignity: Mental Health Awareness for Senior Citizens in the Philippines," applying AI-assisted prototyping and accessible UI/UX design.
+        </p>
+      </td>
+      <td align="left" valign="top" style="padding: 8px 9px;">
+        <p style="color: #1e293b; font-size: 11px; line-height: 1.6; margin: 0;" align="center">
+          Demonstrates comparative resume generation across multiple Large Language Models (LLMs), evaluating how structured prompts impact formatting, clarity, content organization, and professional aesthetics.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 16px 8px 8px 8px;">
+        <a href="https://github.com/mronquillo-netizen/GE4120-RONQUILLOPH-Portfolio/tree/24227dcf2fe67a084d89b787686ddcd9488f3731/Activity%205">
+          <img src="https://img.shields.io/badge/VIEW%20HERE-0070f3?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" style="padding: 16px 8px 8px 8px;">
+        <a href="https://github.com/mronquillo-netizen/GE4120-RONQUILLOPH-Portfolio/tree/24227dcf2fe67a084d89b787686ddcd9488f3731/Activity%205">
+          <img src="https://img.shields.io/badge/VIEW%20HERE-0070f3?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" style="padding: 16px 8px 8px 8px;">
+        <a href="https://github.com/mronquillo-netizen/GE4120-RONQUILLOPH-Portfolio/tree/24227dcf2fe67a084d89b787686ddcd9488f3731/Activity%205">
+          <img src="https://img.shields.io/badge/VIEW%20HERE-0070f3?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+<!-- ==================== WHAT HAVE I LEARNED SECTION ==================== -->
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td style="background-color: #ffffff; border: 2px solid #0070f3; border-radius: 12px; padding: 20px;">
+        <div align="center">
+          <h3 style="color: #0070f3; font-size: 20px; font-weight: bold; margin: 0 0 6px 0;">
+            🎓 What Have I Learned?
+          </h3>
+        </div>
+        <hr style="background-color: #38bdf8; height: 1.5px; border: none; margin: 6px 0 14px 0;" />
+        <p style="color: #1e293b; font-size: 13.5px; line-height: 1.7; margin: 0 0 10px 0;" align="left">
+          ◆ <strong>Key Concepts & Skills Gained:</strong> Throughout GE 4120, I developed practical skills in visual design principles (grid systems, color contrast, and typography), cloud collaboration through Google Workspace, structured prompt engineering across multiple Large Language Models, and AI-assisted web prototyping.
+        </p>
+        <p style="color: #1e293b; font-size: 13.5px; line-height: 1.7; margin: 0 0 10px 0;" align="left">
+          ◆ <strong>Challenges Faced & How I Solved Them:</strong> One of the main challenges I encountered was getting AI tools and code layouts to accurately match my exact vision—such as structuring accessible web pages for senior citizens and formatting GitHub portfolio files properly. I overcame this by iteratively refining my prompts with clear, specific constraints and carefully reviewing and editing AI-generated outputs rather than relying on initial drafts.
+        </p>
+        <p style="color: #1e293b; font-size: 13.5px; line-height: 1.7; margin: 0;" align="left">
+          ◆ <strong>Future Application & Growth:</strong> As an AB Psychology student, I plan to apply these digital literacy and design skills to create accessible mental health advocacy platforms, design clear research surveys, and build professional career documents while continuing to expand my web development and digital communication capabilities.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
