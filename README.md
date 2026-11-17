@@ -245,7 +245,7 @@
     </tr>
     <tr>
       <td align="center" style="padding: 16px 8px 8px 8px;">
-        <a href="https://github.com/mronquillo-netizen/GE4120-RONQUILLOPH-Portfolio/tree/24227dcf2fe67a084d89b787686ddcd9488f3731/Group%202%20Presentation">
+        <a href="https://github.com/mronquillo-netizen/GE4120-RONQUILLOPH-Portfolio/blob/24227dcf2fe67a084d89b787686ddcd9488f3731/Group%202%20Presentation/ELECTIVES%20-%20Gforms%20%26%20Gmeet.pdf">
           <img src="https://img.shields.io/badge/VIEW%20HERE-0070f3?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
