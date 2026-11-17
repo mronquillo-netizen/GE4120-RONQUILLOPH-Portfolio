@@ -207,7 +207,7 @@
 <!-- PRELIM VIDEO BUTTON -->
 <div align="center" style="padding: 18px 0;">
   <a href="https://drive.google.com/file/d/1iJmIAVZTSkRztvu7yjzqoNGjtfhxZjGO/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20%F0%9F%8E%AC%20PRELIM%20VIDEO%20PRESENTATION-ff007a?style=for-the-badge" alt="Watch Prelim Video Presentation" />
+    <img src="https://img.shields.io/badge/%E2%96%B6%20%F0%9F%8E%AC%20PRELIM%20VIDEO%20PRESENTATION-0070f3?style=for-the-badge" alt="Watch Prelim Video Presentation" />
   </a>
 </div>
 
