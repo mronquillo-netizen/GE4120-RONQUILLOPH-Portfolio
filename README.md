@@ -9,12 +9,12 @@
   <img src="https://img.shields.io/badge/PROGRAM%2C%20YEAR%20%26%20SECTION-AB%20PSYCHOLOGY%20--%202F-0070f3?style=flat&labelColor=ffffff" />
 </p>
 <hr style="background-color: #0070f3; height: 2px; border: none; margin-bottom: 16px;" />
+
 <!-- PORTFOLIO HEADER -->
 <div align="center">
   <h3 style="color: #0070f3; font-size: 22px; font-weight: bold; margin-bottom: 4px;">
     🌀⋆࿔ About the Portfolio 𝜗𝜚⋆🌀 
   </h3>
-  </p>
 </div>
 
 <br />
@@ -144,33 +144,30 @@
     </tr>
     <tr>
       <td align="center" style="padding: 16px 8px 8px 8px;">
-        <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/tree/main/Activity1">
+        <a href="https://github.com/mronquillo-netizen/GE4120-RONQUILLOPH-Portfolio/blob/507795229c56dfa3e29344e413fe891926188830/Activity%201/README.md">
           <img src="https://img.shields.io/badge/VIEW%20HERE-0070f3?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
       <td align="center" style="padding: 16px 8px 8px 8px;">
-        <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/tree/main/Activity2">
+        <a href="https://github.com/mronquillo-netizen/GE4120-RONQUILLOPH-Portfolio/blob/507795229c56dfa3e29344e413fe891926188830/Activity%202/README.md">
           <img src="https://img.shields.io/badge/VIEW%20HERE-0070f3?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
       <td align="center" style="padding: 16px 8px 8px 8px;">
-        <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/tree/main/Activity3">
+        <a href="https://github.com/mronquillo-netizen/GE4120-RONQUILLOPH-Portfolio/blob/507795229c56dfa3e29344e413fe891926188830/Activity%203/README.md">
           <img src="https://img.shields.io/badge/VIEW%20HERE-0070f3?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
     </tr>
   </tbody>
 </table>
-<!-- Main Container Table -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #0d1117; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-  
+
 <!-- Main Container Table with explicit centering -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="background-color: #0d1117; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; text-align: center; margin: 0 auto;">
   
   <!-- ACCESSIBLE WATCH PRELIM VIDEO BUTTON -->
   <tr>
     <td align="center" style="padding: 24px 0 16px 0; text-align: center;">
-      <!-- Put your video link in the href attribute below -->
       <a href="https://drive.google.com/file/d/1iJmIAVZTSkRztvu7yjzqoNGjtfhxZjGO/view?usp=drive_link" target="_blank" style="text-decoration: none; display: inline-block; margin: 0 auto;" aria-label="Watch Prelim Video Presentation">
         <table border="0" cellpadding="0" cellspacing="0" align="center" style="border-radius: 4px; overflow: hidden; background-color: #ff007a; margin: 0 auto;">
           <tr>
@@ -193,7 +190,6 @@
   <!-- MIDTERMS SECTION -->
   <tr>
     <td align="center" style="padding: 16px 0 8px 0; text-align: center;">
-      <!-- Badge Component -->
       <table border="0" cellpadding="0" cellspacing="0" align="center" style="display: inline-table; border-radius: 4px; overflow: hidden; margin: 0 auto;">
         <tr>
           <td align="center" style="background-color: #484f58; color: #ffffff; font-size: 11px; font-weight: bold; letter-spacing: 1px; padding: 6px 12px; text-transform: uppercase; text-align: center;">
@@ -224,7 +220,6 @@
   <!-- PREFINALS SECTION -->
   <tr>
     <td align="center" style="padding: 16px 0 8px 0; text-align: center;">
-      <!-- Badge Component -->
       <table border="0" cellpadding="0" cellspacing="0" align="center" style="display: inline-table; border-radius: 4px; overflow: hidden; margin: 0 auto;">
         <tr>
           <td align="center" style="background-color: #484f58; color: #ffffff; font-size: 11px; font-weight: bold; letter-spacing: 1px; padding: 6px 12px; text-transform: uppercase; text-align: center;">
